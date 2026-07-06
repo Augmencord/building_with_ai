@@ -1,0 +1,16 @@
+﻿Neighborhood,Zone,Avg_Rent_1BHK_INR,Tech_Parks_Count,Metro_Connectivity,Livability_Score
+Indiranagar,East,25000,2,Yes,8.5
+Koramangala,South,22000,3,No,8.2
+Whitefield,East,20000,8,Yes,7.5
+Malleswaram,North,18000,1,Yes,9.0
+Jayanagar,South,21000,1,Yes,8.8
+Electronic City,South,15000,10,No,7.0
+HSR Layout,South,23000,4,No,8.3
+Hebbal,North,19000,3,No,7.8
+Bellandur,East,24000,6,No,6.5
+MG Road,Central,30000,2,Yes,8.0
+BTM Layout,South,17000,2,No,7.6
+Marathahalli,East,19000,5,No,6.8
+Yelahanka,North,16000,2,No,8.1
+Banashankari,South,17500,1,Yes,8.4
+Rajajinagar,West,18500,1,Yes,8.6
