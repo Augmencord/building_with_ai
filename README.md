@@ -1,0 +1,2 @@
+Hello, This folder has script files in the form of both .py(normal python extention) and .ipynb(Jupyter Notebook). All these files and folders will help you in understanding the practical implementation of Artificial Intelligence 
+through very basic code snippets. If you are accessing this folder for watching any the practical implementation of Artificial Intelligence and you need the short expaination about it then, you can get if through : https://augmencord.blogspot.com/
